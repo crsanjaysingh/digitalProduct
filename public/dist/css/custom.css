@@ -1,0 +1,8 @@
+.error {
+    color: red;
+    margin-top: 2px;
+}
+.generate-slug {
+    margin-left: 3px;
+    cursor: pointer;
+}
